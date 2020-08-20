@@ -4,13 +4,13 @@
 
 ## Other About Me's
 
-Freelance Website: [expdesign.io](https://expdesign.io)
+Freelance Website [expdesign.io](https://expdesign.io)
 
-LinkedIn: [in/devonhirth](https://www.linkedin.com/in/devonhirth)
+LinkedIn [in/devonhirth](https://www.linkedin.com/in/devonhirth)
 
-Behance: [.net/devonhirth](https://www.behance.net/devonhirth)
+Behance [.net/devonhirth](https://www.behance.net/devonhirth)
 
-Twitter: [expdsgn](https://twitter.com/expdsgn) | [devowhippit](https://twitter.com/devowhippit)
+Twitter [expdsgn](https://twitter.com/expdsgn) | [devowhippit](https://twitter.com/devowhippit)
 
 <!--
 **devowhippit/devowhippit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
