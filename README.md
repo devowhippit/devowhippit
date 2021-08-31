@@ -1,8 +1,10 @@
 # I'm a designer...
 
-... who's been on every side of the **digital product life-cycle** and I use this experience to contribute to **open source** and **equity**. My enthusiasm for this work continues to grow over time. Currently, I'm working at the [@CityOfNewYork](https://github.com/CityOfNewYork) > [@NYCOpportunity](https://github.com/NYCOpportunity) helping build great products and I hope that anyone visiting my profile sees this and maybe even wants to share the experience. Find out more at [buildwithnyc.github.io](https://buildwithnyc.github.io/).
+... who's been on every side of the **digital product life-cycle** and I use this experience to contribute to **open source** and **equity**. My enthusiasm for this work continues to grow over time. Currently, I'm working for the [@CityOfNewYork](https://github.com/CityOfNewYork) at [@NYCOpportunity](https://github.com/NYCOpportunity) helping build great products and I hope that anyone visiting my profile sees this and maybe even wants to share the experience. Find out more at [buildwithnyc.github.io](https://buildwithnyc.github.io/).
 
 ## Other About Me's
+
+Personal Website [devonhirth.com](https://devonhirth.com)
 
 Freelance Website [expdesign.io](https://expdesign.io)
 
