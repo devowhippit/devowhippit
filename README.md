@@ -7,7 +7,3 @@ Personal Website [devonhirth.com](https://devonhirth.com)
 Freelance Website [expdesign.io](https://expdesign.io)
 
 LinkedIn [in/devonhirth](https://www.linkedin.com/in/devonhirth)
-
-Behance [.net/devonhirth](https://www.behance.net/devonhirth)
-
-Twitter [expdsgn](https://twitter.com/expdsgn) | [devowhippit](https://twitter.com/devowhippit)
